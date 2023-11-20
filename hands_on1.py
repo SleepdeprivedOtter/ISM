@@ -1,3 +1,5 @@
+#Authored by Yannick Hein, 20.11.23
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
