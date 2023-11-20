@@ -1,4 +1,4 @@
-#Authored by Yannick Hein, 20.11.23
+#Authored by Yannick Hein, Michelle Anderson, Maja Bešter. 20.11.23
 
 import numpy as np
 import pandas as pd
